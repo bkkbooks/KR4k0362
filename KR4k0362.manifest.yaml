@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0362_001.yaml, hash: 'sha256:ef438cfb490bc65f096ae7d3ea090631a8ba33ef1d66fe3b133b25469a17729a'}
+  - {seq: 1, filename: KR4k0362_001.yaml, hash: 'sha256:16abc8e965646eab77e1d91bb0ebe0a9f0e72d8d7ba7e5c2b09cbf3136148505'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0362_001.markers.yaml, hash: 'sha256:f7485bb14e46b8b06851bf596f20ef770776451ec086862cd866b75421887347'}
+  - {seq: 1, role: markers, filename: assets/KR4k0362_001.markers.yaml, hash: 'sha256:43c8b2a5c896d3ae724e9d901f2f3e01225b987ad7cd60099fe499e17dc12d20'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 謝靈運晉書
   type: section
   level: 1
-hash: sha256:f930809f6ae7d92ce4542314f7c3a3dea50d3b4549c57880a04b06343fee850e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c6a05844932195e9b3f1b71da5f8c87e225b830710ad054b3f71cd81f14c545b
