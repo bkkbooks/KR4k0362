@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0362/v1
 canonical_location: https://kanripo.org/bkk/KR4k0362/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 謝靈運晉書一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0362_001.yaml, hash: 'sha256:16abc8e965646eab77e1d91bb0ebe0a9f0e72d8d7ba7e5c2b09cbf3136148505'}
+  - {seq: 1, filename: KR4k0362_001.yaml, hash: 'sha256:ef438cfb490bc65f096ae7d3ea090631a8ba33ef1d66fe3b133b25469a17729a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0362_001.markers.yaml, hash: 'sha256:43c8b2a5c896d3ae724e9d901f2f3e01225b987ad7cd60099fe499e17dc12d20'}
+  - {seq: 1, role: markers, filename: assets/KR4k0362_001.markers.yaml, hash: 'sha256:edae64c8927975eb7ca1f91f6bae11a39dfc3e23aeedfe02fe96b665af4a52fa'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 謝靈運晉書
   type: section
   level: 1
-hash: sha256:c6a05844932195e9b3f1b71da5f8c87e225b830710ad054b3f71cd81f14c545b
+hash: sha256:60f01738abcbe780461615831d1a917ae01ec062b59fdd2a1804f8adf10c81f4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
